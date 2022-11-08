@@ -1,6 +1,25 @@
+/* PALETA 
+#0FC2C0
+#0CABA8
+#008F8C
+#015958
+#023535 
+*/
 
-h1{
-    color: red;
+
+/* Container cabecera */
+#cabecera{
+    
+    background-color:#0FC2C0;
+    color: white;
+    box-shadow: 0px 5px 20px #015958;
 }
 
+#tituloCabecera{
+    color: white;
+    font-family: 'Rubik Mono One', sans-serif;
+}
 
+h1{
+    color: #023535;
+}
