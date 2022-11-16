@@ -8,23 +8,26 @@
 
 
 /* Container cabecera */
-#cabecera{
-    
-    background-color:#0FC2C0;
+#cabecera {
+    background-color: #0FC2C0;
     color: white;
     box-shadow: 0px 5px 20px #015958;
 }
 
-#tituloCabecera{
+#tituloCabecera {
     color: white;
-    font-family: 'Rubik Mono One', sans-serif;
 }
 
-h1{
+h1 {
     color: #023535;
 }
 
-p{
+p {
     color: #023535;
     font-size: 20px;
+}
+
+img {
+    padding: 0;
+
 }
