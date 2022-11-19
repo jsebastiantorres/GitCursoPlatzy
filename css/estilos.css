@@ -31,3 +31,9 @@ img {
     padding: 0;
 
 }
+
+.centrar{
+    margin:auto;
+    display:block;
+    width: 100%;
+}
